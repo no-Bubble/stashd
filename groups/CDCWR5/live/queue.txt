@@ -1,4 +1,3 @@
 recipe recipe-1774039073902
 shelf CL-APBPKB
-barcode 4337256590846
 shelf CL-APBPKB
